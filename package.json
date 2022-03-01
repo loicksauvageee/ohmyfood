@@ -1,0 +1,22 @@
+{
+  "name": "ohmyfood",
+  "version": "1.0.0",
+  "description": "Mon p3 OC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loicksauvageee/ohmyfood.git"
+  },
+  "author": "loick sauvage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loicksauvageee/ohmyfood/issues"
+  },
+  "homepage": "https://github.com/loicksauvageee/ohmyfood#readme",
+  "devDependencies": {
+    "sass": "^1.49.9"
+  }
+}
